@@ -1,0 +1,23 @@
+body {
+    color: goldenrod;
+    background-image: url("images/greenfelt.jpeg");
+    text-align: center;
+}
+
+button {
+    color: green;
+    background-color: goldenrod;
+    border: none;
+    border-radius: 2px;
+    width: 100px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+
+
+
